@@ -12,30 +12,6 @@
   </em>  
 </p>
 
-
-<br>
-
-```typescript
-// Level from 1 - 10
-const techs = {
-   HTML: 9,
-   CSS: 8,
-   JavaScript: 9,
-   TypeScript: 8,
-   ReactJS: 8,
-   'Node.js': 9,
-   'React Native': 8,
-   VueJS: 7,
-   Angular: 7,
-   PHP: 9,
-   Laravel: 8,
-   Python: 7,
-   UI: 8,
-   UX: 9
-}
-
-```
-
 <br>
 
 
